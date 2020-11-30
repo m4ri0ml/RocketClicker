@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Test1.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Test1_jar</output-path>
+    <root id="archive" name="Creeper Clicker (copy).jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$USER_HOME$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Creeper Clicker (copy)" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../jnativehook-2.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jna-5.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

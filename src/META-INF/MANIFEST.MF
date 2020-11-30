@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: me.MarioML.RocketClicker.Main
+SplashScreen-Image: splashicon.gif
+Class-Path: jnativehook-2.1.0.jar jna-3.2.5.jar
